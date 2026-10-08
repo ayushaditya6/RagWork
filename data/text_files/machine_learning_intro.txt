@@ -1,0 +1,11 @@
+Machine Learning is a technique that allows computers to learn from data and make decisions without explicit programming.
+It works by identifying patterns in data and using them to make predictions. It is used in areas such as: Image Recognition, Speech Processing,
+Language Translation and Recommender Systems.
+How Machines Learn from Data
+Machine Learning uses data to learn patterns and build models that can make predictions or decisions on new data. The basic process involves the following steps:
+
+Data: Machine Learning starts with data such as text, images, numbers or other information. The quality and relevance of the data are important for effective learning.
+Algorithm: An ML algorithm is selected based on the task, such as classification, regression or clustering.
+Training: The algorithm learns patterns from the training data and uses them to build a machine learning model.
+Prediction: The trained model applies the learned patterns to new data and produces predictions or results.
+Evaluation: The model is tested on unseen data to measure its performance and ability to generalize to real-world data.

@@ -1,0 +1,9 @@
+Python is a high-level, general-purpose programming language created by Guido van Rossum 
+    and released in 1991. It is celebrated globally for its simple, English-like syntax that prioritizes code readability, allowing you to 
+    express complex logic in fewer lines of code than languages like Java or C++.
+    Python is a high-level programming language known for its simple and readable syntax. It has the following features:
+
+Allows writing clean code with fewer lines.
+Supports multiple programming paradigms including object-oriented, functional and procedural programming.
+Widely used in web development, automation, data analysis, artificial intelligence and many other fields.
+Dynamically typed and has automatic garbage collection
