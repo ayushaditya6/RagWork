@@ -11,3 +11,6 @@ wheels/
 
 # macOS
 .DS_Store
+
+# ChromaDB vector store
+data/vector_store/
