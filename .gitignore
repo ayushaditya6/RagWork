@@ -14,3 +14,4 @@ wheels/
 
 # ChromaDB vector store
 data/vector_store/
+.env
